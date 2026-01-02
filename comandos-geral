@@ -1,1 +1,11 @@
 
+npm install --> é um comando do NPM (Node Package Manager) usado para instalar dependências de um projeto JavaScript/Node.js
+  1 - Verifica o package.json
+  2 - Resolve dependências e versões
+  3 - Baixa os pacotes do npm registry
+  4 - Cria a árvore de dependências em node_modules
+  5 - Gera/atualiza package-lock.json
+
+npm run --> executa um script conforme definido no package.json
+
+npm start --> é usado para iniciar a aplicação Node.js conforme definido no package.json
